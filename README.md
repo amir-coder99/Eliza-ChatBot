@@ -64,3 +64,6 @@ python eliza_chatbot.py
 
 ## 📜 License
 This project is open-source and available under the MIT License.
+
+## Screenshot of Eliza-ChatBot Output
+![screenshot-eliza-chatbot](https://github.com/user-attachments/assets/ad590a09-1033-46db-9761-534ef3703774)
