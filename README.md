@@ -33,11 +33,34 @@ You: bye
 ChatBot: Goodbye! Have an awesome day! 🌟
 ```
 
-📂 Project Structure
+## 📂 Project Structure
 ```bash
-📦 chatbot
- ┣ 📜 chatbot.py       # Main chatbot script
+📦 Eliza-ChatBot
+ ┣ 📜 eliza_chatbot.py       # Main chatbot script
  ┣ 📜 README.md        # Project documentation
 ```
 
+## 🚀 Getting Started
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/amir-coder99/Eliza-ChatBot.git
+cd Eliza-ChatBot
+```
 
+### 2️⃣ Run the script
+```bash
+python eliza_chatbot.py
+```
+
+## 🛠 Requirements
+- Python 3.x
+- No extra libraries needed (uses only built-in modules)
+
+## 💡 Customization
+- You can easily:
+- Add more keywords and responses
+- Modify the tone (funny, formal, professional, etc.)
+- Integrate with APIs for live data
+
+## 📜 License
+This project is open-source and available under the MIT License.
